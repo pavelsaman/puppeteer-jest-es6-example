@@ -1,0 +1,8 @@
+{    
+    "testMatch": [
+        "**/Tests/**/*.js"
+    ],
+    "moduleFileExtensions": ["js", "json"],
+    "verbose": true,
+    "testTimeout": 20000
+}
